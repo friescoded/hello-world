@@ -1,2 +1,6 @@
 # hello-world
-my first repository on github
+
+Fun times for all,
+
+I like pizza, swords, and swimming. 
+My sense of smell is unique, so I've been told. And I'm adopted.
